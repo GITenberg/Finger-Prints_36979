@@ -1,0 +1,30 @@
+_repo: Finger-Prints_36979
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Galton, Francis
+    alias: Galton, Francis, Sir
+    birthdate: 1822
+    deathdate: 1911
+    gutenberg_agent_id: '4029'
+    url: http://www.gutenberg.org/2009/agents/4029
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Galton
+description: ''
+gutenberg_issued: '2011-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36979'
+  lccn: 06028788
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fingerprints -- Identification'
+- !lcc 'GN'
+- !lcsh 'Fingerprints -- Classification'
+title: Finger Prints
+url: http://www.gutenberg.org/ebooks/36979
